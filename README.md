@@ -2,7 +2,7 @@
 Proyecto creado en **Tecnolochicas Pro** simulando la página principal del navegador de Google.
 ********
 Poniendo en práctica lo aprendido en el bootcamp logré realizar un clin del explorador de Google.
-##1. Intro
+## 1. Intro
 El proyecto fue creado con **HTML y CSS**; se trata del navegador más usado: la interfaz de Google.
 * Puedes visitar el sitio de el siguiente enlace 
 ![Google](imagenes/Captura-Clon.png)
